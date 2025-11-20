@@ -33,3 +33,7 @@ This project serves as my digital business card, showcasing my skills, experienc
 
 ### 1. Clone the repository
 
+```bash
+git clone https://github.com/YMM539/your-repo-name.git
+cd your-repo-name
+
