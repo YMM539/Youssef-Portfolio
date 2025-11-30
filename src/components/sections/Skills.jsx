@@ -80,7 +80,7 @@ export default function Skills() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="relative py-32 w-full overflow-hidden">
+    <section ref={sectionRef} id="skills" className="relative py-32 w-full overflow-hidden">
       <Container>
         
         {/* الصندوق الرئيسي (المتجاوب مع الثيم) 
